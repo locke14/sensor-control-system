@@ -8,9 +8,9 @@ Your task is to develop a simulation for a Control System. The simulation will b
 
 ## Setup Instructions
 
-1. Install the latest version of Python from [the official website](https://www.python.org/downloads/).
+1. Install the latest version of Python.
 
-2. Install a C++ compiler. If you're using Windows, you can install [MinGW](http://www.mingw.org/). If you're using macOS, you can install the Xcode command line tools. If you're using Linux, you can install the `g++` package using your package manager.
+2. Install a C++ compiler. If you're using Windows, you can install MinGW. If you're using macOS, you can install the Xcode command line tools. If you're using Linux, you can install the `g++` package using your package manager.
 
 3. Clone this repository to your local machine.
 
