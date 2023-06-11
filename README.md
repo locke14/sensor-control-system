@@ -54,8 +54,6 @@ Develop a Python interface for the simulation engine.
 
 - Display real-time updates of the sensor readings and machine parameters over time during the simulation.
 
-- Use data visualization libraries to plot key sensor readings and machine parameters over time.
-
 ## Evaluation Criteria
 
 Your solution will be evaluated on the following criteria:
@@ -72,21 +70,23 @@ Your solution will be evaluated on the following criteria:
 
 - Handling of potential errors or exceptional conditions in the system.
 
+- You may choose to work more on the C++ component or the Python component depending on your strengths and the job role you are applying for. However, you are expected to have a basic understanding of both components.
+
 ## Submission Instructions
 
 1. Fork this repository to your own GitHub account and make the forked repository private.
 
 2. Clone the forked repository to your local machine.
 
-3. Commit your changes to a new branch with the name `solution-yourname`, replacing `yourname` with your name.
+3. Commit your changes to a new branch with the name `solution`.
 
-4. Push your branch to the repository using `git push origin solution-yourname`.
+4. Push your branch to the repository.
 
 5. In your private repository, open a pull request from your branch to the `main` branch.
 
 6. In the pull request description, provide a brief explanation of your solution and any decisions you made while developing it.
 
-7. Finally, add the use of this repository as a collaborator to your private repository so that we can review your solution.
+7. Finally, add the user of this repository as a collaborator to your private repository so that we can review your solution.
 
 Please note: Do not open a pull request in the original public repository. Your solution should be submitted in your private repository only.
 

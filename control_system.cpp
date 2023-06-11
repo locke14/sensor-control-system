@@ -66,7 +66,7 @@ public:
     void run() 
     {
         std::default_random_engine generator;
-        std::normal_distribution<double> distribution(0.0, 1.0);
+        std::normal_distribution<double> distribution(2.0, 2.0);
 
         double temperature = 20.0;  // Initial temperature in degrees Celsius
         double pressure = 1.0;  // Initial pressure in atmospheres
